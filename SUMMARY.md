@@ -13,6 +13,7 @@
       * [Редактирование информации](leadInfo.md)
       * [Перечень услуг](leadInfo.md)
       * [E-mail оповещения о событиях](leadInfo.md)
+      * [Наследование лидов](leadInfo.md)
     * [История звонков](calls.md)
     * [Данные о компании](companyInfo.md)
       * [Данные контрагента](companyInfo.md)
