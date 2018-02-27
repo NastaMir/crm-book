@@ -1,3 +1,16 @@
 # Работа с CRM
+<hr>
+В данном разделе описывается работа с системой.
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Вся информация разбита по разделам, соответствующим вкладкам в самой CRM.
+
+![Crm](/assets/crm.png)
+
+## Содержание
+* [Работа с лидами](rabota-s-lidami.md)
+* [Графики](grafiki.md)
+* [Обработка входящих](income.md)
+* [Статистика](stats.md)
+* [Отчеты](reports.md)
+* [Финансы](finans.md)
+* [Перенос на ГИС](importToGIS.md)
