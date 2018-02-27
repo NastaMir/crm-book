@@ -1,4 +1,4 @@
-# Содержание
+# Summary
 
 * [Введение](README.md)
 * [Работа с CRM](usingCRM.md)
@@ -32,7 +32,4 @@
   * [Отчеты](reports.md)
   * [Финансы](finans.md)
   * [Перенос на ГИС](importToGIS.md)
-  
-  
-  
 
