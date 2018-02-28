@@ -7,6 +7,7 @@
 ![Crm](/assets/crm.png)
 
 ## Содержание
+* [Пользователи](users.md)
 * [Работа с лидами](rabota-s-lidami.md)
 * [Графики](grafiki.md)
 * [Обработка входящих](income.md)
