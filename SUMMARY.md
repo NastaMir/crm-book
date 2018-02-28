@@ -2,6 +2,7 @@
 
 * [Введение](README.md)
 * [Работа с CRM](usingCRM.md)
+  * [Пользователи](users.md)
   * [Работа с лидами](usingCRM/rabota-s-lidami.md)
     * [Жизненный цикл лида](leadsLifecycle.md)
       * [Создание](leadsLifecycle.md)
