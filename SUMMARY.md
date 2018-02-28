@@ -15,7 +15,7 @@
       * [Перечень услуг](leadInfo.md)
       * [E-mail оповещения о событиях](leadInfo.md)
       * [Наследование лидов](leadInfo.md)
-    * [История звонков](lead-calls.md)
+  * [История звонков](lead-calls.md)
     * [Данные о компании](companyInfo.md)
       * [Данные контрагента](companyInfo.md)
       * [Данные для документов](companyInfo.md)
