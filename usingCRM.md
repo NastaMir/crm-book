@@ -7,11 +7,20 @@
 ![Crm](/assets/crm.png)
 
 ## Содержание
-* [Пользователи](users.md)
-* [Работа с лидами](rabota-s-lidami.md)
-* [Графики](grafiki.md)
-* [Обработка входящих](income.md)
-* [Статистика](stats.md)
-* [Отчеты](reports.md)
-* [Финансы](finans.md)
-* [Перенос на ГИС](importToGIS.md)
+* [Пользователи](usingCRM/users.md)
+* [Работа с лидами](usingCRM/usingLeads.md)
+* [Графики](usingCRM/grafiki.md)
+* [Обработка входящих](usingCRM/income.md)
+* [Статистика](usingCRM/stats.md)
+* [Отчеты](usingCRM/reports.md)
+* [Финансы](usingCRM/finans.md)
+* [Перенос на ГИС](usingCRM/importToGIS.md)
+
+
+
+
+
+
+
+
+
