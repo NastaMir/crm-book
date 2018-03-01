@@ -54,7 +54,7 @@
 
 Обработка лида заключается .....
 
-[Статусы](leadInfo.md#Статусы)
+[Статусы](../leads/leadInfo.md#leadInfo-statuses)
 
 ## Закрытие {#lc-close}
 
