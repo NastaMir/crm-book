@@ -5,9 +5,9 @@
   * [Пользователи](users.md)
   * [Работа с лидами](usingCRM/rabota-s-lidami.md)
     * [Жизненный цикл лида](leadsLifecycle.md)
-      * Создание
-      * Обработка
-      * Закрытие
+      * [Создание](leads/leadsLifecycle.md)
+      * [Обработка](leads/leadsLifecycle.md)
+      * [Закрытие](leads/leadsLifecycle.md)
     * [Общая информация о лиде](leadInfo.md)
       * [Проект](leadInfo.md)
       * [Статусы](leadInfo.md)
