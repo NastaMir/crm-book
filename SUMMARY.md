@@ -7,7 +7,7 @@
     * [Жизненный цикл лида](leadsLifecycle.md)
       * [Создание](leadsLifecycle.md)
       * [Обработка](leadsLifecycle.md)
-      * [Закрытие](leadsLifecycle.md)
+      * Закрытие
     * [Общая информация о лиде](leadInfo.md)
       * [Проект](leadInfo.md)
       * [Статусы](leadInfo.md)
