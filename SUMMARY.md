@@ -23,7 +23,7 @@
       * [Генерация документов](leads/leadDocs.md#leadDocs-generate)
       * [Шаблоны документов](leads/leadDocs.md#leadDocs-templates)
       * [Загрузка дополнительных файлов](leads/leadDocs.md#leadDocs-loadDocs)
-    * [Финансы](leads/leadFinans.md)
+    * [Платежи](leads/leadFinans.md)
       * [Планирование платежей](leads/leadFinans.md#leadFinans-plan)
       * [Поступление оплаты](leads/leadFinans.md#leadFinans-pay)
     * [Отправка e-mail](leads/sendEmail.md)
