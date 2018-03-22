@@ -48,9 +48,14 @@
 
 ## Обработка {#lc-process}
 
-Обработка лида заключается .....
+Обработка лида начинается сразу после попадания лида в CRM. 
 
-[Статусы](../leads/leadInfo.md#leadInfo-statuses)
+Обработка заключается в:
+* изменение [статусов](../leads/leadInfo.md#leadInfo-statuses) лида;
+* общение с клиентом — совершение [звонков](../leads/lead-calls.md), отправка [писем](../leads/sendEmail.md);
+* работе с [платежами](../leads/leadFinans.md) и [документами](../leads/leadDocs.md).
+
+
 
 ## Закрытие {#lc-close}
 
