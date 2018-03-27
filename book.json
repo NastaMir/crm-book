@@ -1,8 +1,5 @@
 {
-    "gitbook": "3.x.x",
-    "plugins": [],
-    "pluginsConfig": {},
-     "styles": {
+    "styles": {
         "website": "styles/my-style.css"
         }
 }
