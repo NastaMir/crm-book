@@ -1,0 +1,8 @@
+{
+    "gitbook": "2.x.x",
+    "plugins": [],
+    "pluginsConfig": {},
+     "styles": {
+        "website": "styles/my-style.css"
+        }
+}
