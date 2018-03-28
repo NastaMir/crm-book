@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+* {font-family: 'Roboto Condensed', sans-serif;}
+
 th {background-color: #28B6EB; color: #ffffff;}
 
 td {background-color: #ffffff;}
